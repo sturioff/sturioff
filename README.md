@@ -1,4 +1,4 @@
-# Maria Letícia Sturion
+# Salut! 🤓
 
 Me chamo Maria Letícia, mas todo mundo me chama de Malê. Tenho 23 anos e concluí a graduação em Processos Gerenciais recentemente. Me interesso por dados e tenho me dedicado a aprender algumas linguagens programação. <br>
 <br>
@@ -51,7 +51,6 @@ Me chamo Maria Letícia, mas todo mundo me chama de Malê. Tenho 23 anos e concl
 <br/>
 
 ### 📊 Estatísticas
-
 <p>
   <img 
     align="left" 
@@ -60,13 +59,11 @@ Me chamo Maria Letícia, mas todo mundo me chama de Malê. Tenho 23 anos e concl
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=sturioff&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sturioff&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
