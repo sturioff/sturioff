@@ -56,7 +56,7 @@ Me chamo Maria Letícia, mas todo mundo me chama de Malê. Tenho 23 anos e concl
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sturioff&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sturioff&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
