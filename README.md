@@ -1,6 +1,6 @@
 # Salut! 🤓
 
-Me chamo Maria Letícia, mas todo mundo me chama de Malê. Tenho 23 anos e concluí a graduação em Processos Gerenciais recentemente. Me interesso por dados e tenho me dedicado a aprender algumas linguagens programação. <br>
+Me chamo Maria Letícia, mas todo mundo me chama de Malê. Tenho 23 anos e concluí a graduação em Processos Gerenciais recentemente. Me interesso por dados e tenho dedicado meu tempo para fazer alguns projetos em HTML, CSS e JS. <br>
 <br>
     <a href="https://github.com/sturioff?tab=repositories&sort=stargazers">
         <img 
