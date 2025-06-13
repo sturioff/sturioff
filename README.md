@@ -2,21 +2,7 @@
 
 Me chamo Maria Letícia, mas todo mundo me chama de Malê. Tenho 23 anos e concluí a graduação em Processos Gerenciais recentemente. Me interesso por dados e tenho dedicado meu tempo para fazer alguns projetos em HTML, CSS e JS. <br>
 <br>
-    <a href="https://github.com/sturioff?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/sturioff?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/sturioff?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/sturioff?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+ 
 
 <div>
      <a href = "mailto:sturioff@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
